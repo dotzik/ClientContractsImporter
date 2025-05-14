@@ -41,7 +41,7 @@ public class XlsxClientDataConverter : IClientDataConverter
 
                         var periods = worksheet.Row(1)
                             .Cells(startCol, endCol)
-                            .Select(c => c.GetString().Trim())
+                            .Select(c => c.GetFormattedString().Trim()) // retuns formatted string XX/YYYY
                             .ToList();
 
                         foreach (var row in worksheet.RowsUsed().Skip(1))
@@ -75,13 +75,13 @@ public class XlsxClientDataConverter : IClientDataConverter
     {
         try
         {
-            // Implementace kontroly hlavičky XLSX (první 4 bajty)
+            // Implemnt xlsx file format check
             var headerBytes = new byte[4];
             var originalPosition = stream.Position;
             await stream.ReadExactlyAsync(headerBytes.AsMemory(0, 4), cancellationToken);
-            stream.Position = originalPosition; // Vrátit pozici zpět
+            stream.Position = originalPosition; // Work with memory return to original position!
 
-            // Kontrola, zda soubor má správnou signaturu XLSX
+            // Check XLSX file signature
             if (!IsValidXlsxHeader(headerBytes))
             {
                 throw new InvalidDataException("Vstupní stream neobsahuje platný XLSX soubor");
@@ -96,7 +96,7 @@ public class XlsxClientDataConverter : IClientDataConverter
 
     private bool IsValidXlsxHeader(byte[] header)
     {
-        // XLSX soubory jsou ZIP archivy, kontrola ZIP signatury
+        // XLSX files are actually ZIP files, so we check the ZIP file signature
         return header[0] == 0x50 && header[1] == 0x4B && header[2] == 0x03 && header[3] == 0x04;
     }
 
