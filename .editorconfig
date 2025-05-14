@@ -1,0 +1,384 @@
+root = true
+
+[*.cs]
+
+indent_size = 4
+indent_style = space
+tab_width = 4
+
+end_of_line = crlf
+insert_final_newline = true
+
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = false
+
+# Add _camelCase style rule for private readonly fields
+dotnet_naming_rule.private_members_with_underscore.symbols  = private_fields
+dotnet_naming_rule.private_members_with_underscore.style = prefix_underscore
+dotnet_naming_rule.private_members_with_underscore.severity = suggestion
+
+dotnet_naming_symbols.private_fields.applicable_kinds           = field
+dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+
+dotnet_naming_style.prefix_underscore.capitalization  = camel_case
+dotnet_naming_style.prefix_underscore.required_prefix = _
+
+# Add PascalCase style rule for private const fields
+dotnet_naming_rule.private_const_fields_pascal_case.symbols  = private_const_fields
+dotnet_naming_rule.private_const_fields_pascal_case.style = pascal_case
+dotnet_naming_rule.private_const_fields_pascal_case.severity = suggestion
+
+dotnet_naming_symbols.private_const_fields.applicable_kinds           = field
+dotnet_naming_symbols.private_const_fields.required_modifiers         = const
+dotnet_naming_symbols.private_const_fields.applicable_accessibilities = private
+
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+
+# CA1014: Mark assemblies with CLSCompliant
+dotnet_diagnostic.CA1014.severity = none
+
+# CA1019: Define accessors for attribute arguments
+dotnet_diagnostic.CA1019.severity = silent
+
+# CA1028: Enum Storage should be Int32
+dotnet_diagnostic.CA1028.severity = none
+
+# CA1031: Do not catch general exception types
+dotnet_diagnostic.CA1031.severity = none
+
+# CA1303: Do not pass literals as localized parameters
+dotnet_diagnostic.CA1303.severity = none
+
+# CA1308: Normalize strings to uppercase
+dotnet_diagnostic.CA1308.severity = silent
+
+# CA1707: Identifiers should not contain underscores
+dotnet_diagnostic.CA1707.severity = silent
+
+# CA1805: Do not initialize unnecessarily.
+dotnet_diagnostic.CA1805.severity = warning
+
+# CA1812: Avoid uninstantiated internal classes
+dotnet_diagnostic.CA1812.severity = none
+
+# CA1819: Properties should not return arrays
+dotnet_diagnostic.CA1819.severity = silent
+
+# CA1822: Mark members as static
+dotnet_diagnostic.CA1822.severity = silent
+
+# CA1845: Use span-based 'string.Concat'
+dotnet_diagnostic.CA1845.severity = silent
+
+# CA1848: Use the LoggerMessage delegates
+dotnet_diagnostic.CA1848.severity = none
+
+# CA2007: Consider calling ConfigureAwait on the awaited task
+dotnet_diagnostic.CA2007.severity = none
+
+# CA2214: Do not call overridable methods in constructors
+dotnet_diagnostic.CA2214.severity = silent
+
+# CA2227: Collection properties should be read only
+dotnet_diagnostic.CA2227.severity = none
+
+# CA2254: Template should be a static expression
+dotnet_diagnostic.CA2254.severity = none
+
+# CA5394: Do not use insecure randomness
+dotnet_diagnostic.CA5394.severity = silent
+
+# CS1573: Parameter has no matching param tag in the XML comment (but other parameters do)
+dotnet_diagnostic.CS1573.severity = none
+
+# CA5351: Do Not Use Broken Cryptographic Algorithms
+dotnet_diagnostic.CA5351.severity = silent
+
+# CS1591: Missing XML comment for publicly visible type or member
+dotnet_diagnostic.CS1591.severity = none
+
+# IDE0001: Simplify Names
+dotnet_diagnostic.IDE0001.severity = warning
+
+# IDE0002: Simplify Member Access
+dotnet_diagnostic.IDE0002.severity = warning
+
+# IDE0005: Using directive is unnecessary.
+dotnet_diagnostic.IDE0005.severity = suggestion
+
+# IDE0008: Use explicit type
+csharp_style_var_elsewhere = true:suggestion
+
+# IDE0008: Use explicit type
+csharp_style_var_for_built_in_types = true:suggestion
+
+# IDE0008: Use explicit type
+csharp_style_var_when_type_is_apparent = true:warning
+
+# IDE0042: Deconstruct variable declaration
+dotnet_diagnostic.IDE0042.severity = none
+
+# IDE0058: Expression value is never used
+csharp_style_unused_value_expression_statement_preference = discard_variable:none
+
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = true:none
+
+# IDE0079: Remove unnecessary suppression
+dotnet_diagnostic.IDE0079.severity = error
+
+# IDE0090: Use 'new(...)'
+dotnet_diagnostic.IDE0090.severity = silent
+
+# IDE1006: Naming Styles
+dotnet_diagnostic.IDE1006.severity = error
+
+# RCS1015: Use nameof operator.
+dotnet_diagnostic.RCS1015.severity = error
+
+# RCS1036: Remove redundant empty line.
+dotnet_diagnostic.RCS1036.severity = error
+
+# RCS1069: Remove unnecessary case label.
+dotnet_diagnostic.RCS1069.severity = none
+
+# RCS1090: Call 'ConfigureAwait(false)'.
+dotnet_diagnostic.RCS1090.severity = none
+
+# RCS1097: Remove redundant 'ToString' call.
+dotnet_diagnostic.RCS1097.severity = error
+
+# RCS1160: Abstract type should not have public constructors.
+dotnet_diagnostic.RCS1160.severity = error
+
+# S1128: Unused "using" should be removed (SONAR)
+dotnet_diagnostic.S1128.severity = none
+
+# S3458: Empty "case" clauses that fall through to the "default" should be omitted (SONAR)
+dotnet_diagnostic.S3458.severity = none
+
+# S3925: "ISerializable" should be implemented correctly (SONAR)
+dotnet_diagnostic.S3925.severity = none
+
+# SA0001: XML comment analysis is disabled due to project configuration
+dotnet_diagnostic.SA0001.severity = none
+
+# SA1011: Closing square brackets should be spaced correctly
+dotnet_diagnostic.SA1011.severity = error
+
+# SA1012: Opening braces should be spaced correctly
+dotnet_diagnostic.SA1012.severity = error
+
+# SA1013: Closing braces should be spaced correctly
+dotnet_diagnostic.SA1013.severity = error
+
+# SA1028: Code should not contain trailing whitespace
+dotnet_diagnostic.SA1028.severity = error
+
+# SA1101: Prefix local calls with this
+dotnet_diagnostic.SA1101.severity = none
+
+# SA1127: Generic type constraints should be on their own line
+dotnet_diagnostic.SA1127.severity = error
+
+# SA1128: Put constructor initializers on their own line
+dotnet_diagnostic.SA1128.severity = error
+
+# SA1200: Using directives should be placed correctly
+dotnet_diagnostic.SA1200.severity = none
+
+# SA1204: Static elements must appear before instance elements
+dotnet_diagnostic.SA1204.severity = none
+
+# SA1309: Field names should not begin with underscore
+dotnet_diagnostic.SA1309.severity = none
+
+# SA1310: Field names should not contain underscore
+dotnet_diagnostic.SA1310.severity = none
+
+# SA1137: Elements should have the same indentation
+dotnet_diagnostic.SA1137.severity = error
+
+# SA1413: Use trailing comma in multi-line initializers
+dotnet_diagnostic.SA1413.severity = none
+
+# SA1507: Code should not contain multiple blank lines in a row
+dotnet_diagnostic.SA1507.severity = error
+
+# SA1508: Closing braces should not be preceded by blank line
+dotnet_diagnostic.SA1508.severity = error
+
+# SA1516: Elements should be separated by blank line
+dotnet_diagnostic.SA1516.severity = error
+
+# SA1517: Code should not contain blank lines at start of file
+dotnet_diagnostic.SA1517.severity = error
+
+# SA1518: Use line endings correctly at end of file
+dotnet_diagnostic.SA1518.severity = error
+
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = none
+
+# SA1601: Partial elements should be documented
+dotnet_diagnostic.SA1601.severity = none
+
+# SA1602: Enumeration items should be documented
+dotnet_diagnostic.SA1602.severity = none
+
+# SA1611: Element parameters should be documented
+dotnet_diagnostic.SA1611.severity = none
+
+# SA1615: Element return value should be documented
+dotnet_diagnostic.SA1615.severity = none
+
+# SA1623: Property summary documentation should match accessors
+dotnet_diagnostic.SA1623.severity = none
+
+# SA1629: Documentation text should end with a period
+dotnet_diagnostic.SA1629.severity = silent
+
+# SA1633: File should have header
+dotnet_diagnostic.SA1633.severity = none
+
+# SA1649: File name should match first type name
+dotnet_diagnostic.SA1649.severity = error
+
+# EF1001
+dotnet_diagnostic.EF1001.severity = warning
+
+# CA1032
+dotnet_diagnostic.CA1032.severity = none
+
+# File scoped namespace 
+csharp_style_namespace_declarations = file_scoped:warning
+
+# Mark assemblies with CLSCompliantAttribute
+dotnet_diagnostic.CA1014.severity = none
+
+# Mark assemblies with NeutralResourcesLanguageAttribute
+dotnet_diagnostic.CA1824.severity = none
+
+# RijndaelManaged' is obsolete: 'The Rijndael and RijndaelManaged types are obsolete. Use Aes instead (this doesn't work with NIA correctly)
+dotnet_diagnostic.SYSLIB0022.severity = none
+
+# Generated
+csharp_indent_labels = one_less_than_current
+csharp_using_directive_placement = outside_namespace:silent
+csharp_prefer_braces = true:silent
+csharp_style_prefer_method_group_conversion = true:silent
+csharp_style_expression_bodied_methods = false:silent
+csharp_style_expression_bodied_constructors = false:silent
+csharp_style_expression_bodied_operators = false:silent
+csharp_style_expression_bodied_properties = true:silent
+csharp_style_expression_bodied_indexers = true:silent
+csharp_style_expression_bodied_accessors = true:silent
+csharp_style_expression_bodied_lambdas = true:silent
+csharp_style_expression_bodied_local_functions = false:silent
+dotnet_style_operator_placement_when_wrapping = beginning_of_line
+tab_width = 4
+indent_size = 4
+end_of_line = crlf
+dotnet_style_coalesce_expression = true:suggestion
+dotnet_style_null_propagation = true:suggestion
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:suggestion
+dotnet_style_prefer_auto_properties = true:silent
+dotnet_style_object_initializer = true:suggestion
+dotnet_style_collection_initializer = true:suggestion
+dotnet_style_prefer_simplified_boolean_expressions = true:suggestion
+dotnet_style_prefer_conditional_expression_over_assignment = true:silent
+dotnet_style_prefer_conditional_expression_over_return = true:silent
+dotnet_diagnostic.CA1014.severity = none
+dotnet_diagnostic.CA0108.severity = none
+dotnet_diagnostic.CA0114.severity = none
+csharp_style_prefer_top_level_statements = true:silent
+csharp_style_throw_expression = true:suggestion
+csharp_style_prefer_null_check_over_type_check = true:suggestion
+csharp_prefer_simple_default_expression = true:suggestion
+csharp_style_prefer_local_over_anonymous_function = true:suggestion
+csharp_style_prefer_index_operator = true:suggestion
+
+# Ignore generated file
+[GeneratedReadAifoClient.cs]
+generated_code = true
+
+[GeneratedRobReadAifo2Client.cs]
+generated_code = true
+
+[GeneratedGsbReadDataClient.cs]
+generated_code = true
+
+[GeneratedGsbWriteDataClient.cs]
+generated_code = true
+
+[GeneratedGsbWriteDataClient.cs]
+generated_code = true
+
+[**/GeneratedSaveMapAifoClient.cs]
+generated_code = true
+
+[**/GsbExternalTypesRSV.cs]
+generated_code = true
+
+[**/GsbExternalTypesCRR.cs]
+generated_code = true
+
+[**/GsbExternalTypesSPS.cs]
+generated_code = true
+
+[GetCredentialsV11.cs]
+generated_code = true
+
+[DmOperations.cs]
+generated_code = true
+
+[DbAccess.cs]
+generated_code = true
+
+[PaisProbe.cs]
+generated_code = true
+
+# CS0108: Member hides inherited member; missing new keyword
+dotnet_diagnostic.CS0108.severity = none
+
+[PaisWriteData.cs]
+generated_code = true
+
+# CS0108: Member hides inherited member; missing new keyword
+dotnet_diagnostic.CS0108.severity = none
+
+[GeneratedRosReadAifo2Client.cs]
+generated_code = true
+
+[**/GeneratedClients/*.cs]
+generated_code = true
+
+# CS0108: Member hides inherited member; missing new keyword
+dotnet_diagnostic.CS0108.severity = none
+
+[**/GeneratedTypes/*.cs]
+generated_code = true
+
+[**/Migrations/*.cs]
+generated_code = true
+
+[*.{cs,vb}]
+dotnet_style_coalesce_expression = true:suggestion
+dotnet_style_null_propagation = true:suggestion
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:suggestion
+dotnet_style_prefer_auto_properties = true:silent
+dotnet_style_object_initializer = true:suggestion
+dotnet_style_collection_initializer = true:suggestion
+dotnet_style_prefer_simplified_boolean_expressions = true:suggestion
+dotnet_style_prefer_conditional_expression_over_assignment = true:silent
+dotnet_style_prefer_conditional_expression_over_return = true:silent
+dotnet_style_explicit_tuple_names = true:suggestion
+dotnet_style_prefer_inferred_tuple_names = true:suggestion
+dotnet_style_prefer_inferred_anonymous_type_member_names = true:suggestion
+dotnet_style_prefer_compound_assignment = true:suggestion
+dotnet_style_prefer_simplified_interpolation = true:suggestion
+dotnet_style_namespace_match_folder = true:suggestion
+dotnet_style_operator_placement_when_wrapping = beginning_of_line
+tab_width = 4
+indent_size = 4
+end_of_line = crlf

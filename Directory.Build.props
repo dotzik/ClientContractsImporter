@@ -1,0 +1,19 @@
+<!-- This file is automatically imported to all projects by msbuild. See https://docs.microsoft.com/en-us/visualstudio/msbuild/customize-your-build -->
+<Project>
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+        <Nullable>enable</Nullable>
+        <NeutralLanguage>cs-CZ</NeutralLanguage>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <AnalysisMode>All</AnalysisMode>
+        <VersionSuffix />
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.435">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+</Project>

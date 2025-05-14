@@ -1,0 +1,1036 @@
+[
+  {
+    "Name": "ROSSMANN, spol. s r.o.",
+    "CompanyId": "61246093",
+    "Contracts": [
+      {
+        "Name": "RO0001",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 7
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 14
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 15
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 5
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 17
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 11
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 17
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "RO0002",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 7
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 14
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 15
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 5
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 17
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 11
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 17
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Alfmeier CZ s.r.o.",
+    "CompanyId": "26167492",
+    "Contracts": [
+      {
+        "Name": "AL0001",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 23
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 20
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "AL0002",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 3
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "AL0003",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 23
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 20
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "AL0004",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 16
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 3
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUMOTEX, a.s.",
+    "CompanyId": "16355407",
+    "Contracts": [
+      {
+        "Name": "GU0001",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 23
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 24
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "GU0002",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 23
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 6
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 24
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 2
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Setos spol. s r.o.",
+    "CompanyId": "46352163",
+    "Contracts": [
+      {
+        "Name": "SE0001",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 18
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 14
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 15
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 11
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      },
+      {
+        "Name": "SE0002",
+        "Records": [
+          {
+            "Period": "1/1/2017 12:00:00 AM",
+            "Quantity": 18
+          },
+          {
+            "Period": "2/1/2017 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "3/1/2017 12:00:00 AM",
+            "Quantity": 14
+          },
+          {
+            "Period": "4/1/2017 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "5/1/2017 12:00:00 AM",
+            "Quantity": 22
+          },
+          {
+            "Period": "6/1/2017 12:00:00 AM",
+            "Quantity": 15
+          },
+          {
+            "Period": "7/1/2017 12:00:00 AM",
+            "Quantity": 12
+          },
+          {
+            "Period": "8/1/2017 12:00:00 AM",
+            "Quantity": 19
+          },
+          {
+            "Period": "9/1/2017 12:00:00 AM",
+            "Quantity": 0
+          },
+          {
+            "Period": "10/1/2017 12:00:00 AM",
+            "Quantity": 10
+          },
+          {
+            "Period": "11/1/2017 12:00:00 AM",
+            "Quantity": 11
+          },
+          {
+            "Period": "12/1/2017 12:00:00 AM",
+            "Quantity": 25
+          },
+          {
+            "Period": "1/1/2018 12:00:00 AM",
+            "Quantity": 13
+          },
+          {
+            "Period": "2/1/2018 12:00:00 AM",
+            "Quantity": 9
+          },
+          {
+            "Period": "3/1/2018 12:00:00 AM",
+            "Quantity": 21
+          },
+          {
+            "Period": "4/1/2018 12:00:00 AM",
+            "Quantity": 1
+          },
+          {
+            "Period": "5/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "6/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "7/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "8/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "9/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "10/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "11/1/2018 12:00:00 AM",
+            "Quantity": null
+          },
+          {
+            "Period": "12/1/2018 12:00:00 AM",
+            "Quantity": null
+          }
+        ]
+      }
+    ]
+  }
+]
